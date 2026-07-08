@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://sali-peretz-jewelry-cb893475.zappy5.app
+https://example.com
 חנות התכשיטים המובילה בישראל עם קולקציות קלאסיות ועכשוויות. מצאו את התכשיט המושלם שישדרג כל הופעה. כנסו עכשיו וגלו את הקסם!
 
 ### מדריך מתנות
-https://sali-peretz-jewelry-cb893475.zappy5.app/gift-guide
+https://example.com/gift-guide
 לא יודעים איזה תכשיט לבחור? מדריך המתנות שלנו יעזור לכם למצוא את המתנה האידיאלית לכל אירוע, בסגנון אישי ובלתי נשכח. התחילו לגלוש עכשיו!
 
 ### קיימות
-https://sali-peretz-jewelry-cb893475.zappy5.app/sustainability
+https://example.com/sustainability
 אנחנו מחויבים לעתיד ירוק יותר. גלו כיצד אנו יוצרים תכשיטים מדהימים תוך שמירה על הסביבה ועל ערכים של אופנה אתית. הצטרפו למהפכה!
 
 ### אודות
-https://sali-peretz-jewelry-cb893475.zappy5.app/about
+https://example.com/about
 מאחורי כל תכשיט מסתתר סיפור של תשוקה ואומנות. בואו להכיר את החזון, העיצוב והאנשים שהופכים את סאלי פרץ לשם דבר בעולם התכשיטים. קראו עוד!
 
 ### צור קשר
-https://sali-peretz-jewelry-cb893475.zappy5.app/contact
+https://example.com/contact
 יש שאלה על תכשיט? צריכים עזרה בבחירה? צוות המומחים שלנו זמין לתת לכם שירות אישי ומקצועי. השאירו פרטים ונחזור אליכם במהירות!
 
 ### Products
-https://sali-peretz-jewelry-cb893475.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - SALI PERETZ jewelry
 
 ### Cart
-https://sali-peretz-jewelry-cb893475.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://sali-peretz-jewelry-cb893475.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://sali-peretz-jewelry-cb893475.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://sali-peretz-jewelry-cb893475.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://sali-peretz-jewelry-cb893475.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://sali-peretz-jewelry-cb893475.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - SALI PERETZ jewelry
 
 ### Category
-https://sali-peretz-jewelry-cb893475.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - SALI PERETZ jewelry
 
 ### תודה רבה | SALI PERETZ jewelry
-https://sali-peretz-jewelry-cb893475.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך. קיבלנו את ההודעה ונחזור אליך בהקדם האפשרי. SALI PERETZ jewelry - best jewelry ecommerce websites.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://sali-peretz-jewelry-cb893475.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://sali-peretz-jewelry-cb893475.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://sali-peretz-jewelry-cb893475.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -103,8 +103,8 @@ Jewelry E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://sali-peretz-jewelry-cb893475.zappy5.app/sitemap.xml
-- Robots: https://sali-peretz-jewelry-cb893475.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://sali-peretz-jewelry-cb893475.zappy5.app/llms-full.txt
-- Products (JSON): https://sali-peretz-jewelry-cb893475.zappy5.app/products.json
-- Products (Google Merchant RSS): https://sali-peretz-jewelry-cb893475.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
